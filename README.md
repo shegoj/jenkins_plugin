@@ -5,8 +5,8 @@ The project was based on the Slack plugin: https://github.com/giancarlogarcia/je
 
 # screenshots
 
-![screengrab1](images/1.png?raw=true "screengrab1")
-![screengrab1](images/2.png?raw=true "screengrab1")
+![screengrab1](images/3.png?raw=true "screengrab1")
+![screengrab1](images/4.png?raw=true "screengrab1")
 
 # How to compile
 
